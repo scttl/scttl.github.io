@@ -1,4 +1,4 @@
 scttl.github.io
 ===============
 
-sct.tl website
+http://sct.tl website
